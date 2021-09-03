@@ -1,5 +1,4 @@
 # SORTING VISUALIZER
-#### --- JAVASCRIPT PROJECT
 <br/>
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
